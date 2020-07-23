@@ -1,2 +1,2 @@
 # Drum Kit
-Check out at https://rhythmbhiwani.github.com/webdev-drumkit
+Check out at https://rhythmbhiwani.github.io/webdev-drumkit
